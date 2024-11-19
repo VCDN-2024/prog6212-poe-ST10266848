@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Claim Not Yet Approved by Program Coordinator";
+}
+
+<h2 align="Left" style="color:red;">Claim Approval Error</h2>
+<h5 align="Left">The claim has not been approved by the Program Coordinator yet. </h5>
+<h5 align="Left">Please wait for the Program Coordinator to approve the claim before you can proceed with your approval.</h5>
+
+<a href="@Url.Action("PendingClaims", "Claims")" class="btn btn-primary">Back to Pending Claims</a>
+

@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\CMCS_MVC_App.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\css\\myCSStheme.css",
+      "PackagePath": "staticwebassets\\css\\myCSStheme.css"
+    },
+    {
       "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\images\\LecturerClaim_Image.jpg",
+      "PackagePath": "staticwebassets\\images\\LecturerClaim_Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\images\\RegisterPage_Image.jpg",
+      "PackagePath": "staticwebassets\\images\\RegisterPage_Image.jpg"
     },
     {
       "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\js\\site.js",

@@ -1,4 +1,15 @@
 ﻿@model IEnumerable<CMCS_MVC_App.Models.Claim>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@* Code Attribution for this view:
+   Author: fb-shaik
+   Website: GitHub
+   Link: https://github.com/fb-shaik/PROG6212-Group1-2024/blob/main/EmployeeLeaveManagement_G1_Unit%20Testing.zip
+   Date accessed: 17 October 2024
+*@
+
 @{
     ViewData["Title"] = "View Claim Requests";
 }
@@ -12,6 +23,7 @@
             <th>Submission Date</th>
             <th>Hours Worked</th>
             <th>Hourly Rate</th>
+            <th>Payment Amount (ZAR)</th>
             <th>Additional Note</th>
             <th>Document</th>
             <th>Status</th>
@@ -26,6 +38,7 @@
                 <td>@claim.SubmissionDate.ToShortDateString()</td>
                 <td>@claim.HoursWorked</td>
                 <td>@claim.HourlyRate</td>
+                <td>@claim.PaymentAmount</td>
                 <td>@claim.AdditionalNote</td>
                 <td>
                     @if (!string.IsNullOrEmpty(claim.DocumentName) && claim.DocumentContent != null)
@@ -42,8 +55,13 @@
                 <td>@claim.Status</td>
                 <td>
                     <a asp-action="Details" asp-route-id="@claim.ClaimId" class="btn btn-info">View</a>
-
-                    <a asp-action="Delete" asp-route-id="@claim.ClaimId" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this claim?');">Delete</a>
+                    @* To be implemented for Part 3: *@
+                    @* 
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("HR"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@claim.ClaimId" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this claim?');">Delete</a>
+                    } *@
+                    
                 </td>
             </tr>
         }

@@ -1,0 +1,43 @@
+﻿@model CMCS_MVC_App.Models.Claim
+@{
+    ViewData["Title"] = "Claim Details";
+}
+
+@* Code attribution for this:
+Author: Open AI
+Link: https://chatgpt.com/share/671229d8-ae70-8002-9f58-60db6a1105d8
+Date Accessed: 18 October 2024 *@
+
+<div class="container mt-4">
+    <h2>Claim Details</h2>
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Claim ID: @Model.ClaimId</h5>
+            <h7 class="card-text"><b>Submission Date:</b></h7>
+            <p>@Model.SubmissionDate.ToShortDateString()</p>
+            <h7 class="card-text"><b>Hours Worked:</b></h7>
+            <p>@Model.HoursWorked</p>
+            <h7 class="card-text"><b>Hourly Rate:</b></h7>
+            <p>@Model.HourlyRate</p>
+            <h7 class="card-text"><b>Payment Amount (ZAR):</b></h7>
+            <p>@Model.PaymentAmount</p>
+            <h7 class="card-text"><b>Additional Note:</b></h7>
+            <p>@Model.AdditionalNote</p>
+            <h7 class="card-text"><b>Status:</b></h7> 
+            <p>@Model.Status</p>
+            <h7 class="card-text"><b>Document Name:</b></h7>
+            <p>@Model.DocumentName</p>
+            @if (Model.DocumentContent != null)
+            {
+                <p>
+                    <a href="@Url.Action("DownloadDocument", "Claims", new { id = Model.ClaimId })" class="btn btn-primary">Download Document</a>
+                </p>
+            }
+            else
+            {
+                <p><b>No document uploaded.</b></p>
+            }
+            <a asp-action="LecturerClaim" class="btn btn-secondary">Back to Claims</a>
+        </div>
+    </div>
+</div>

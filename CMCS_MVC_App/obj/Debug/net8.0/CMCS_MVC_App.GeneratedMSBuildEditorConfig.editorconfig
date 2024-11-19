@@ -194,12 +194,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/ApproveClaim.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEFwcHJvdmVDbGFpbS5jc2h0bWw=
+[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/AlreadyApproved.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEFscmVhZHlBcHByb3ZlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/ApprovedByPC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEFwcHJvdmVkQnlQQy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/FullyApproved.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXEZ1bGx5QXBwcm92ZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/LecturerClaim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXExlY3R1cmVyQ2xhaW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/NotYetApprovedByPC.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXE5vdFlldEFwcHJvdmVkQnlQQy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/PendingClaims.cshtml]
@@ -212,10 +228,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claims/SubmitClaim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1zXFN1Ym1pdENsYWltLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Claim/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhaW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kreas/source/repos/CMCS_MVC_App/Views/Home/Index.cshtml]

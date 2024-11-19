@@ -1,1 +1,7 @@
-﻿
+﻿@{
+    ViewData["Title"] = "Claim Rejected";
+}
+
+<h2 style="color: darkorange;">Claim Rejected</h2>
+<h5>Claim has been successfully rejected! It will now be deleted from the database.</h5>
+<a href="@Url.Action("PendingClaims", "Claims")" class="btn btn-primary">Back to Pending Claims</a>

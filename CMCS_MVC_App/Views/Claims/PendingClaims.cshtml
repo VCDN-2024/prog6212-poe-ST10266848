@@ -1,4 +1,12 @@
 ﻿@model IEnumerable<CMCS_MVC_App.Models.Claim>
+
+@* Code Attribution for this view:
+   Author: fb-shaik
+   Website: GitHub
+   Link: https://github.com/fb-shaik/PROG6212-Group1-2024/blob/main/EmployeeLeaveManagement_G1_Unit%20Testing.zip
+   Date accessed: 17 October 2024
+*@
+
 @{
     ViewData["Title"] = "Pending Claims";
 }
@@ -13,6 +21,7 @@
            @*  <th>User ID</th> *@
             <th>Hours Worked</th>
             <th>Hourly Rate</th>
+            <th>Payment Amount (ZAR)</th>
             <th>Additional Note</th>
             <th>Document</th>
             <th>Status</th>
@@ -28,6 +37,7 @@
                 @* <td>@claim.UserId</td> *@
                 <td>@claim.HoursWorked</td>
                 <td>@claim.HourlyRate</td>
+                <td>@claim.PaymentAmount</td>
                 <td>@claim.AdditionalNote</td>
                 <td> @* Document *@
                     @if (!string.IsNullOrEmpty(claim.DocumentName) && claim.DocumentContent != null)
@@ -45,11 +55,11 @@
                     @claim.Status
                 </td>
                 <td> @* Actions *@
-                @if (claim.Status == "Pending")
-                {
-                <a asp-action="ApproveClaim" asp-route-id="@claim.ClaimId" asp-route-status="Approved" class="btn btn-success">Approve</a>
-                <a asp-action="RejectClaim" asp-route-id="@claim.ClaimId" asp-route-status="Rejected" class="btn btn-secondary" onclick="return confirm('Are you sure you want to reject this claim');">Reject</a>
-                }
+                     @if (claim.Status == "Pending")
+                     {
+                       <a asp-action="ApproveClaim" asp-route-id="@claim.ClaimId" asp-route-status="Approved" class="btn btn-success">Approve</a>
+                       <a asp-action="RejectClaim" asp-route-id="@claim.ClaimId" asp-route-status="Rejected" class="btn btn-danger" onclick="return confirm('Are you sure you want to reject this claim?');">Reject</a>
+                     }
                 </td>
             </tr>
         }

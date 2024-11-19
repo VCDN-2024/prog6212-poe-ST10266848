@@ -135,13 +135,7 @@ namespace CMCS_MVC_App.Areas.Identity.Pages.Account
             [Required]
             public string Role {  get; set; }
 
-            //After done creating users assigned to the diff roles:
-            //Set Role to Lecturer by default and
-            //prevent user from selecting a role on register view
-            //Role = "Lecturer"
-
             [ValidateNever]
-
             public IEnumerable<SelectListItem> RoleList { get; set; }
 
         }
@@ -152,8 +146,6 @@ namespace CMCS_MVC_App.Areas.Identity.Pages.Account
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
 
-            //Might have to remove this aswell after
-            //creation of users and assigning of roles
             Input = new InputModel()
             {
                 RoleList = _roleManager.Roles.Select(x => x.Name).Select(i => new SelectListItem
