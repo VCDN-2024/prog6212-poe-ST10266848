@@ -1,0 +1,53 @@
+﻿@model IEnumerable<CMCS_MVC_App.Models.Claim>
+@{
+    ViewData["Title"] = "View Claim Requests";
+}
+
+<h2>Your Claims</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Submission Date</th>
+            <th>Hours Worked</th>
+            <th>Hourly Rate</th>
+            <th>Additional Note</th>
+            <th>Document</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimId</td>
+                <td>@claim.SubmissionDate.ToShortDateString()</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate</td>
+                <td>@claim.AdditionalNote</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(claim.DocumentName) && claim.DocumentContent != null)
+                    {
+                        //Display a downloadable link if the document exists
+                        <a href="@Url.Action("DownloadDocument", "Claims", new { id = claim.ClaimId })">@claim.DocumentName</a>
+                    }
+                    else
+                    {
+                        //Display a message if no document is associated with the claim
+                        <span>No supporting document provided</span>
+                    }
+                </td>
+                <td>@claim.Status</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@claim.ClaimId" class="btn btn-info">View</a>
+
+                    <a asp-action="Delete" asp-route-id="@claim.ClaimId" class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this claim?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="SubmitClaim" class="btn btn-primary">Submit Claim</a>

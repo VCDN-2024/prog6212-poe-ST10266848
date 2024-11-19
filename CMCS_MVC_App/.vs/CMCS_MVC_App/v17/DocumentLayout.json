@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\pendingclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\pendingclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\controllers\\claimscontroller\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:controllers\\claimscontroller\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\lecturerclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\lecturerclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/KREASON1_SQLEXPRESS/CMCS_DB/True/SqlTable/dbo.Claims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Claims.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/KREASON1_SQLEXPRESS/CMCS_DB/True/SqlTable/dbo.Claims.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/KREASON1_SQLEXPRESS/CMCS_DB/True/SqlTable/dbo.Claims.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-18T10:42:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PendingClaims.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\PendingClaims.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\PendingClaims.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\PendingClaims.cshtml",
+              "RelativeToolTip": "Views\\Claims\\PendingClaims.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T14:09:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:41:27.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmitClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\SubmitClaim.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\SubmitClaim.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\SubmitClaim.cshtml",
+              "RelativeToolTip": "Views\\Claims\\SubmitClaim.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T03:28:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\ClaimsController\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimsController\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\ClaimsController\\ClaimsController.cs",
+              "RelativeToolTip": "Controllers\\ClaimsController\\ClaimsController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAcwLcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:33:17.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppRolesController.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "Controllers\\AppRolesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:50:15.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T14:11:54.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:22:51.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LecturerClaim.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\LecturerClaim.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\LecturerClaim.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\LecturerClaim.cshtml",
+              "RelativeToolTip": "Views\\Claims\\LecturerClaim.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T05:21:09.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

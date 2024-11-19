@@ -1,0 +1,58 @@
+﻿@model IEnumerable<CMCS_MVC_App.Models.Claim>
+@{
+    ViewData["Title"] = "Pending Claims";
+}
+
+<h2>Pending Claims</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Submission Date</th>
+           @*  <th>User ID</th> *@
+            <th>Hours Worked</th>
+            <th>Hourly Rate</th>
+            <th>Additional Note</th>
+            <th>Document</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimId</td>
+                <td>@claim.SubmissionDate.ToShortDateString()</td>
+                @* <td>@claim.UserId</td> *@
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate</td>
+                <td>@claim.AdditionalNote</td>
+                <td> @* Document *@
+                    @if (!string.IsNullOrEmpty(claim.DocumentName) && claim.DocumentContent != null)
+                    {
+                        //Display a downloadable link if the document exists
+                        <a href="@Url.Action("DownloadDocument", "Claims", new { id = claim.ClaimId })">@claim.DocumentName</a>
+                    }
+                    else
+                    {
+                        //Display a message if no document is associated with the claim
+                        <span>No supporting document provided</span>
+                    }
+                </td>
+                <td>
+                    @claim.Status
+                </td>
+                <td> @* Actions *@
+                @if (claim.Status == "Pending")
+                {
+                <a asp-action="ApproveClaim" asp-route-id="@claim.ClaimId" asp-route-status="Approved" class="btn btn-success">Approve</a>
+                <a asp-action="RejectClaim" asp-route-id="@claim.ClaimId" asp-route-status="Rejected" class="btn btn-secondary" onclick="return confirm('Are you sure you want to reject this claim');">Reject</a>
+                }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
