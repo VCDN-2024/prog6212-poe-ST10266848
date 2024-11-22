@@ -46,6 +46,11 @@
 ## Commits 1 -> 4:
 ![image](https://github.com/user-attachments/assets/3aa2f2de-6599-4ccd-8257-dd75c90fb2c7)
 
+## Commits 5 -> 7:
+![image](https://github.com/user-attachments/assets/33032d19-5e24-4c96-9572-81a164fb6fa5)
+
+## Commits 8 -> 10:
+![image](https://github.com/user-attachments/assets/9c4e9d81-b89b-46d8-a208-56c0b40ef0f3)
 
 ----------------------
 
