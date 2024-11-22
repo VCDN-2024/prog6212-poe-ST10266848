@@ -43,6 +43,8 @@
    - Within this viewing app, the HR user will be able to see the details of all claims that have been approved by the PC and AM in modern table format.
 
 # Commits For Part 3:
+## Commits 1 -> 4:
+![image](https://github.com/user-attachments/assets/3aa2f2de-6599-4ccd-8257-dd75c90fb2c7)
 
 
 ----------------------
