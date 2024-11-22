@@ -21,7 +21,7 @@
 - password: XUDVm:5ia*2F>M#
 
 ## YouTube Video Presentation Of CMCS App:
-- 
+- https://youtu.be/afLXVB7lCag
 
 ## Explanation of Lecturer Claim View (Now with auto-calculation of final payment):
 - This view is where lecturers can view the details of the claims they have submitted (such as Hours Worked, hourly rate, the name of any supporting documents that may be there as well as a download link for said documents)
