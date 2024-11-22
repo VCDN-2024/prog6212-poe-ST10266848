@@ -35,6 +35,12 @@
                                 <a class="nav-link text-white" asp-area="" asp-controller="AppRoles" asp-action="Index">User Roles</a>
                             </li>
                         }
+                        @if(SignInManager.IsSignedIn(User) && User.IsInRole("HR"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="" asp-controller="HR" asp-action="DashboardForHR">HR Dashboard</a>
+                            </li>
+                        }
                         @if (SignInManager.IsSignedIn(User) && User.IsInRole("Programme Coordinator") || User.IsInRole("Academic Manager"))
                         {
                             <li class="nav-item">

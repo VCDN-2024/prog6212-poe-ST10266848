@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Generated Report View";
+}
+
+<h2 align="Left" style="color:seagreen;">Approved Claims Report Generated Successfully!</h2>
+<h4 align="Left"> Need to download the report?</h4>
+
+
+<!-- Button to download the report as XML File-->
+<form method="get" action="@Url.Action("DownloadReport", "HR")">
+    <button type="submit" class="btn btn-primary">Download As XML</button>
+</form>
+

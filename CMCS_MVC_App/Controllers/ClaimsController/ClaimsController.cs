@@ -275,6 +275,7 @@ namespace CMCS_MVC_App.Controllers.ClaimsController
             {
                 claim.IsApprovedByAM = true;
                 claim.Status = "Approved";
+                claim.ApprovalDate = DateTime.Now;
                 await _context.SaveChangesAsync();
                 return View("FullyApproved");
             }
@@ -336,7 +337,7 @@ namespace CMCS_MVC_App.Controllers.ClaimsController
             return View(claim);
         }
 
-
+        
 
     }
 }

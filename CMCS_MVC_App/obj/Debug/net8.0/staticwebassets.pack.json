@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMCS_MVC_App.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CMCS_MVC_App.bundle.scp.css"
+      "PackagePath": "staticwebassets\\CMCS_MVC_App.sbdsprvk6d.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\css\\myCSStheme.css",
@@ -255,6 +255,18 @@
     {
       "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\templates\\ClaimsReportTemplate.xlsx",
+      "PackagePath": "staticwebassets\\templates\\ClaimsReportTemplate.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\wwwroot\\templates\\TestTemplate.xlsx",
+      "PackagePath": "staticwebassets\\templates\\TestTemplate.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CMCS_MVC_App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CMCS_MVC_App.Microsoft.AspNetCore.StaticWebAssets.props",
