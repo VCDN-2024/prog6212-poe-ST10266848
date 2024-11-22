@@ -1,3 +1,52 @@
+# Sprint 3 - POE Part 3 Documentation:
+
+## Login Details of Users:
+## Lecturers:
+- username: fshaik@vcconnect.edu.za
+- password: 4)PBuM_Px9s43M@
+
+- username: mikewazowski@vcconnect.edu.za
+- password: P?nC5S]ZryRw8Gj
+
+## Programme Coordinator:
+- username: EbrahimAdams@vcconnect.edu.za
+- password: A%2jER&6kecU>]2
+
+## Academic Manager:
+- username: jamesmay@vcconnect.edu.za
+- password: mN)fc,}3fNWg}Zh
+
+## HR:
+- username: alicezuberg@vcconnect.edu.za
+- password: XUDVm:5ia*2F>M#
+
+## YouTube Video Presentation Of CMCS App:
+- 
+
+## Explanation of Lecturer Claim View (Now with auto-calculation of final payment):
+- This view is where lecturers can view the details of the claims they have submitted (such as Hours Worked, hourly rate, the name of any supporting documents that may be there as well as a download link for said documents)
+- If they have not submitted any yet, they can simply do so by pressing the viewable 'Submit Claim' button.
+- After submitting a claim, details related to the claim will populate the table and the user will be provided with a view button next to the claim to view it's details in a better way.
+- When a specific lecturer is signed in to the CMCS, the Lecture Claim View will only display the claims that they have submitted so not all claims submitted by all lecturers.
+- We have also incorporated a auto-calculation feature that automatically calculates the final payment based on the multiplcation sum of the Lecturer's Hours Worked and their Hourly Rate.
+- This final payment amount is denoted as Payment Amount in the app and database and is displayed on the Lecturer Claim View next to the Hours Worked and Hourly Rate columns.
+
+ ## Explanation of HR View and Actions HR can perform:
+ - This view serves as a 'contents' view which tells and provides the HR user with the buttons for actions that they are able to perform.
+ - HR Users can either 'Manage Lecturers' by clicking on its designated button or they can a 'Generate Report' on the approved claims by clicking on its designated button.
+ - Clicking the 'Manage Lecturers' redirects the HR user to a view where they can do just that, where they are able to view a list of all lecturers in visually appealing way:
+   - Each lecturer has their User ID and User Name display as well as having a Edit button right under their username.
+- Clicking on the 'Generate Report' button redirects the HR user to a view where they can generate and download a report on approved claims. The generation is primarily behind the scenes and is triggered by the HR user       clicking on the 'Download Report as XML' button:
+   - The report only displays the claims that have been approved or claims with a status of "Approved".
+   - The report is downloaded in xlsx format which is Open XML
+   - Once downloaded, the user can open the file in Excel or in an app that supports such file types.
+   - Within this viewing app, the HR user will be able to see the details of all claims that have been approved by the PC and AM in modern table format.
+
+# Commits For Part 3:
+
+
+----------------------
+
 # Sprint 2 - POE Part 2 Documentation:
 
 ## Login Details of Users:
