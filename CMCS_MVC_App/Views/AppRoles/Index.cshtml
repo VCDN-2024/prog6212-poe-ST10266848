@@ -2,12 +2,12 @@
 @model IEnumerable<IdentityRole>
 
 @{
-    ViewData["Title"] = "Application Role";
+    ViewData["Title"] = "User Roles";
 }
 
-<h2>View Roles</h2>
+<h2>View User Roles</h2>
 <p>
-    <a asp-action="Create">Create Role</a>
+    <a href="@Url.Action("Create", "AppRoles")" class="btn btn-info">Add Role</a>
 </p>
 
 <table class="table">

@@ -27,6 +27,9 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav_item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Welcome</a>
+                        </li>
+                        <li class="nav_item">
                             <a class="nav-link text-white" asp-area="" asp-controller="Claims" asp-action="LecturerClaim">Your Claims</a>
                         </li>
                         @if (SignInManager.IsSignedIn(User) && User.IsInRole("HR"))
