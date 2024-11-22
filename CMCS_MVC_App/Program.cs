@@ -1,6 +1,7 @@
 using CMCS_MVC_App.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using CMCS_MVC_App.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\hr\\reportview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\hr\\reportview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\hr\\dashboardforhr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\hr\\dashboardforhr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\hr\\managelecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\hr\\managelecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\controllers\\hrcontroller\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:controllers\\hrcontroller\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,28 +11,44 @@
       "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\controllers\\claimscontroller\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:controllers\\claimscontroller\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\fullyapproved.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\fullyapproved.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\pendingclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\pendingclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\lecturerclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\lecturerclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\hr\\managelecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\hr\\managelecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\controllers\\claimscontroller\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:controllers\\claimscontroller\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\hr\\dashboardforhr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\hr\\dashboardforhr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\claims\\fullyapproved.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\claims\\fullyapproved.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\hr\\reportview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\hr\\reportview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|c:\\users\\kreas\\source\\repos\\cmcs_mvc_app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{670A8D26-C6CE-4EF9-962E-8C34656AE6FF}|CMCS_MVC_App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,78 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ManageLecturers.cshtml",
-              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ManageLecturers.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\ManageLecturers.cshtml",
-              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ManageLecturers.cshtml",
-              "RelativeToolTip": "Views\\HR\\ManageLecturers.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T14:46:46.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FullyApproved.cshtml",
-              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\FullyApproved.cshtml",
-              "RelativeDocumentMoniker": "Views\\Claims\\FullyApproved.cshtml",
-              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\FullyApproved.cshtml",
-              "RelativeToolTip": "Views\\Claims\\FullyApproved.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T10:25:49.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DashboardForHR.cshtml",
-              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\DashboardForHR.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\DashboardForHR.cshtml",
-              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\DashboardForHR.cshtml",
-              "RelativeToolTip": "Views\\HR\\DashboardForHR.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T09:40:59.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Claim.cs",
-              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Models\\Claim.cs",
-              "RelativeDocumentMoniker": "Models\\Claim.cs",
-              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Models\\Claim.cs",
-              "RelativeToolTip": "Models\\Claim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:20:16.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReportView.cshtml",
-              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ReportView.cshtml",
-              "RelativeDocumentMoniker": "Views\\HR\\ReportView.cshtml",
-              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ReportView.cshtml",
-              "RelativeToolTip": "Views\\HR\\ReportView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T05:26:13.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HRController.cs",
               "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\HRController\\HRController.cs",
               "RelativeDocumentMoniker": "Controllers\\HRController\\HRController.cs",
               "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\HRController\\HRController.cs",
               "RelativeToolTip": "Controllers\\HRController\\HRController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwGYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T05:32:10.77Z",
               "EditorCaption": ""
@@ -161,58 +100,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:51:22.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:45:57.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageLecturers.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ManageLecturers.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\ManageLecturers.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ManageLecturers.cshtml",
+              "RelativeToolTip": "Views\\HR\\ManageLecturers.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T14:46:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FullyApproved.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\FullyApproved.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\FullyApproved.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\FullyApproved.cshtml",
+              "RelativeToolTip": "Views\\Claims\\FullyApproved.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T10:25:49.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardForHR.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\DashboardForHR.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\DashboardForHR.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\DashboardForHR.cshtml",
+              "RelativeToolTip": "Views\\HR\\DashboardForHR.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T09:40:59.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:20:16.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportView.cshtml",
+              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ReportView.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\ReportView.cshtml",
+              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\HR\\ReportView.cshtml",
+              "RelativeToolTip": "Views\\HR\\ReportView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T05:26:13.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ClaimsController.cs",
               "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\ClaimsController\\ClaimsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClaimsController\\ClaimsController.cs",
               "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Controllers\\ClaimsController\\ClaimsController.cs",
               "RelativeToolTip": "Controllers\\ClaimsController\\ClaimsController.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAArwIAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T02:59:35.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T02:59:35.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "LecturerClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\LecturerClaim.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\LecturerClaim.cshtml",
               "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\LecturerClaim.cshtml",
               "RelativeToolTip": "Views\\Claims\\LecturerClaim.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T06:58:30.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T06:58:30.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PendingClaims.cshtml",
-              "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\PendingClaims.cshtml",
-              "RelativeDocumentMoniker": "Views\\Claims\\PendingClaims.cshtml",
-              "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Claims\\PendingClaims.cshtml",
-              "RelativeToolTip": "Views\\Claims\\PendingClaims.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T06:41:50.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwCsAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwCsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T19:42:25.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T19:42:25.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kreas\\source\\repos\\CMCS_MVC_App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -220,8 +227,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T09:47:05.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T09:47:05.42Z"
             }
           ]
         }
